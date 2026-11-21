@@ -5,7 +5,7 @@ An Interactive Automated Machine Learning Platform for Classification and Regres
 Overview
 
 
-<video controls src="2026-04-23 23-08-12.mp4" title="
+<video ="
 "></video>
 AutoML Platform is a web-based application designed to simplify the machine learning workflow by automating data preprocessing, exploratory data analysis, model training, evaluation, and hyperparameter tuning.
 
