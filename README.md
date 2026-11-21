@@ -7,7 +7,11 @@ Overview
 
 <video ="
 "></video>
-AutoML Platform is a web-based application designed to simplify the machine learning workflow by automating data preprocessing, exploratory data analysis, model training, evaluation, and hyperparameter tuning.
+AutoML Platform is a web-based application designed to si
+
+Uploading Facebook 983676650674120(720p).MP4…
+
+mplify the machine learning workflow by automating data preprocessing, exploratory data analysis, model training, evaluation, and hyperparameter tuning.
 
 The platform allows users to upload their datasets, select a target variable, choose a machine learning task, train different models, compare their performance, and save the best-performing model.
 
